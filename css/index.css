@@ -76,3 +76,17 @@ header p{
     bottom: -3%;
     z-index: -1;
 }
+
+@media(max-width:768px){
+ 
+    .app{
+        height:100vh;
+    }
+
+    .visual>div{
+        bottom: -20px;
+    }
+
+
+
+}
